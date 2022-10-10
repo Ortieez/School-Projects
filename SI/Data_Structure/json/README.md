@@ -9,7 +9,7 @@ Here is a brief description about each element:
 
 ```json
 {
-    "recipes": { ... }
+    "recipes": {...}
 }
 ```
 
@@ -20,7 +20,7 @@ Here is a brief description about each element:
 ```json
 {
     "recipes": {
-        "recipe": { ... }
+        "recipe": {...}
     }
 }
 ```
