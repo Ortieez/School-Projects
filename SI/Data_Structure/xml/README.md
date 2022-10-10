@@ -3,6 +3,7 @@
 -   This is a documentation for XML data structure
 -   Example of this is inside a file `data.xml`
 
+Here is a brief description about each tag:
 <details>
 <summary><b>RECIPES</b></summary>
 <p>

@@ -1,0 +1,33 @@
+{
+    "recipes": {
+        "recipe": {
+            "name": "Egg Omelette",
+            "difficulty": "easy",
+            "duration": {
+                "unit": "min",
+                "time": "5"
+            },
+            "ingredients": [
+                {
+                    "unit": "pcs",
+                    "amount": "2",
+                    "value": "Eggs"
+                },
+                {
+                    "unit": "pcs",
+                    "amount": "1/4",
+                    "value": "Butter"
+                }
+            ],
+            "steps": [
+                "Crack the eggs into a bowl",
+                "Scramble the eggs",
+                "Turn on the heat and put the butter into the pan",
+                "Let the butter melt",
+                "Put scrambled eggs onto the pan",
+                "Let the eggs turn into omelette",
+                "Season by your needs"
+            ]
+        }
+    }
+}
