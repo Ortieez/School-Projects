@@ -1,0 +1,5 @@
+![](./Billboard.jpg)
+![](./G_Plakat.jpg)
+![](./IT_Plakat.jpg)
+![](./hrnek.jpg)
+![](./pero.jpg)
